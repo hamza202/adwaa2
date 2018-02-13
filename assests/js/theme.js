@@ -1,5 +1,11 @@
 'use strict';
 
+jQuery(document).ready(function($) {
+    jQuery('.stellarnav').stellarNav({
+        theme: 'light'
+    });
+});
+
 // Cache
 var body = $('body');
 var tranding = $('#tranding');

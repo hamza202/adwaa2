@@ -354,6 +354,22 @@ a.cart-checkout:hover{
 .bxslider img{
     height: 43px;
 }
+.categories ul{
+    position: static !important;
+}
+.categories ul li ul{
+    margin-bottom: 0;
+}
+.categories ul li ul li:first-child a{
+    padding-top: 0;
+}
+.categories ul li ul li ul.sub a {
+    padding-left: 18px;
+    padding-bottom: 0;
+}
+.categories ul li ul li a{
+    line-height: 30px;
+}
 @media only screen and (max-width : 768px) {
     .shop-cart{
         float: left;
@@ -365,5 +381,28 @@ a.cart-checkout:hover{
     .shopping-cart-box:after{
         left: auto;
         right: 12%;
+    }
+}
+.header-menu{
+    background: #333333;
+    height: 20px;
+}
+.stellarnav li.has-sub > a:after{
+    content: "\f107";
+}
+.stellarnav li li.has-sub > a:after{
+    content: "\f105";
+    float:right;
+}
+.stellarnav.light {
+    background: #3b4697;
+}
+@media only screen and (min-width : 1025px) {
+    .stellarnav > ul > li > a {
+        padding: 15px 20px;
+        color: #fff !important;
+    }
+    .stellarnav.light ul ul a:hover{
+        color: #3b4697;
     }
 }

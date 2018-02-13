@@ -13,6 +13,8 @@
     <link href="assests/css/style-3.css" rel="stylesheet" type="text/css">
 
     <link href="assests/css/style.css" rel="stylesheet" type="text/css">
+    <link href="assests/css/stellarnav.css" rel="stylesheet" type="text/css">
+
     <!--font-awesome-->
     <link href="font/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!--font-online-->
@@ -106,6 +108,17 @@
                                     class='fa fa-angle-down'></i></a>
                         <ul>
                             <li><a href="#">About Us</a>
+                                <ul class="sub">
+                                    <li><a href="#">dklfjd</a>
+                                        <ul class="sub">
+                                            <li><a href="#">dklfjd</a></li>
+                                            <li><a href="#">dklfjd</a></li>
+                                            <li><a href="#">dklfjd</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">dklfjd</a></li>
+                                    <li><a href="#">dklfjd</a></li>
+                                </ul>
                             </li>
                             <li><a href="#">Join Our Mailing List</a>
                             </li>
@@ -382,11 +395,11 @@
 
 <!--footer-->
 <?php include('footer.php') ?>
-
 <!--Ajax-->
 <script src="assests/js/ajax.js"></script>
 <!--bootstrap.min-->
 <script src="assests/js/bootstrap.min.js"></script>
+<script src="assests/js/stellarnav.js"></script>
 <script src="assests/js/bx-slider.js"></script>
 <script>
     $('.bxslider').bxSlider({

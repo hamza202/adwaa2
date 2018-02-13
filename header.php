@@ -107,58 +107,32 @@
             <div class="clearfix"></div>
         </div>
     </div>
-    <nav class="navbar menu-bar-bg">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <h3>Menu</h3>
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-                </button>
-            </div>
-            <div class="row">
-                <div class="collapse mega-menu submenu navbar-collapse text-center" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav">
-                        <li><a href="javascript:void(0)">Home</a></li>
-                        <li>
-                            <a href="javascript:void(0)">Products<i class="fa fa-angle-down"
-                                                                   aria-hidden="true"></i></a>
-                            <div class="submenu-1">
-                                <ul>
-                                    <li><a href="#">Products&nbsp;<i class="fa fa-angle-right"
-                                                                     aria-hidden="true"></i></a>
-                                        <div class="sub-mega-menu">
-                                            <div class="sub-main-menu">
-                                            <span>
-                                                <a href="#">level1</a>
-                                                <a href="#">level2</a>
-                                                <a href="#">level3</a>
-                                            </span>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li><a href="#">Project2</a>
-                                    </li>
-                                    <li><a href="#">Project3</a>
-                                    </li>
-                                    <li><a href="#">Project4</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Project5</a>
-                                    </li>
-                                </ul>
-                            </div>
+        <div id="main-nav" class="stellarnav">
+            <ul>
+                <li><a href="">Dropdown</a>
+                    <ul>
+                        <li><a href="#">How deep?</a>
+                            <ul>
+                                <li><a href="#">Item</a></li>
+                                <li><a href="#">Item</a></li>
+                                <li><a href="#">Item</a></li>
+                                <li><a href="#">Item</a></li>
+                            </ul>
                         </li>
-
-                        <li><a href="javascript:void(0)">Manufacturing</a></li>
-                        <li><a href="javascript:void(0)">Contact us</a></li>
-                        <li><a href="javascript:void(0)">Catalog</a></li>
-
+                        <li><a href="#">Item</a></li>
+                        <li><a href="#">Item</a></li>
+                        <li><a href="#">Here's a very long item. It can be as long as you want</a></li>
+                        <li><a href="#">Item</a></li>
                     </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
+                </li>
+                <li><a href="">Item 2</a></li>
+                <li><a href="">Item 3</a></li>
+                <li><a href="">Item 4</a></li>
+                <li><a href="">Item 5</a></li>
+                <li><a href="">Item 6</a></li>
+
+            </ul>
+        </div><!-- .stellar-nav -->
 </section>
 
 
