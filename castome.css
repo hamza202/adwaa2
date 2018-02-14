@@ -418,64 +418,7 @@ a.cart-checkout:hover{
 }
 .customer-response ul.nav-tabs > li > a{
     padding: 9px 10px;
-    font-size: 14px;
-}
-.element-table tr:nth-child(even){
-    background: #fafafa;
-}
-.customer-response .tab-content .element-table td{
-    font-size: 15px;
-}
-
-a.download {
-    color: #191919 ;
-    text-decoration: none;
-    transition: all 0.5s ;
-}
-a.download:hover{
-    color: #3b4697;
-}
-.slider .item-head img{
-    height: 190px;
-}
-.sale-label{
-    background-color: #3b4697;
-}
-.item-list-head{
-    border-right: 1px solid #ededed;;
-}
-
-.slider .item-body a h3,
-.caption .caption-title a {
-    max-width: 180px;
-overflow: hidden;
-    display: block;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-}
-.slider .item-des:hover .item-input,
-.item-list-des:hover .item-input{
-    opacity: 1;
-}
-.item-body a h3{
-    min-height: 25px;
-}
-.slider .item-input{
-    padding-bottom:10px;
-}
-.item-list-head img {
-    width: auto;
-    max-height: 257px;
-}
-.item-list-des .item-input{
-    max-width: 178px;
-    padding-top: 10px;
-}
-.caption .caption-title{
-    height: 23px;
-}
-.popover{
-    width: 216px;
+    font-size: 16px;
 }
 @media only screen and (min-width : 1025px) {
     .stellarnav > ul > li > a {

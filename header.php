@@ -109,7 +109,9 @@
     </div>
         <div id="main-nav" class="stellarnav">
             <ul>
-                <li><a href="">Dropdown</a>
+                <li><a href="">Home</a>
+                </li>
+                <li><a href="">Products</a>
                     <ul>
                         <li><a href="#">How deep?</a>
                             <ul>
@@ -125,11 +127,10 @@
                         <li><a href="#">Item</a></li>
                     </ul>
                 </li>
-                <li><a href="">Item 2</a></li>
-                <li><a href="">Item 3</a></li>
-                <li><a href="">Item 4</a></li>
-                <li><a href="">Item 5</a></li>
-                <li><a href="">Item 6</a></li>
+                <li><a href="">Manufacturing</a></li>
+                <li><a href="">Industries</a></li>
+                <li><a href="">Contact us</a></li>
+                <li><a href="">Catalog</a></li>
 
             </ul>
         </div><!-- .stellar-nav -->

@@ -48,27 +48,6 @@
 
         <div class="col-md-9 padd-60 slider"><!--right-sec-->
 
-            <div class=" service-sec">
-                <div class="container-fluid client-sec">
-                    <div class=" text-center">
-                        <h2 class="sec-heading">Manufacturers</h2>
-                        <ul class="bxslider">
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-                            <li><img src="assests/img/BESANTEK.gif" alt=""/></li>
-
-                        </ul>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-
             <!--main-slider-->
             <div id="carousel-example-generic" class="carousel slide grid-slider" data-ride="carousel">
 
@@ -92,6 +71,7 @@
                             class="glyphicon-chevron-right" aria-hidden="true"><i class="fa fa-chevron-right"
                                                                                   aria-hidden="true"></i></span> <span
                             class="sr-only">Next</span> </a></div>
+
             <!--            <div class="row padd-60">-->
             <!--                <div class="col-sm-6">-->
             <!--                    <img class="img-responsive" src="assests/img/index/1.jpg">-->
@@ -100,6 +80,52 @@
             <!--                    <img class="img-responsive" src="assests/img/index/2.jpg">-->
             <!--                </div>-->
             <!--            </div>-->
+            <section class="partner-section">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <h2 class="text-uppercase">manufacturers</h2>
+                        </div>
+
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-2">
+                            <img class="img-responsive" src="assests/img/BESANTEK.gif">
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
         <div class="col-md-offset-0 col-md-3 padd-60 padd-btn-none"><!--left-sec-->
             <div class="row categories">
@@ -229,7 +255,6 @@
             <a href="#" class="def-btn lg-btn">Show Now!</a></div>
     </div>
 </div>
-
 
 
 <div class="container padd-80">
