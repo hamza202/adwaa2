@@ -46,8 +46,8 @@
 <div class="container-fluid link-row">
   <div class="container">
     <div class="col-md-12">
-      <h2>Contact Us</h2>
-      <div class="link-sec"> <a href="#">Home</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">Contact</a> </div>
+      <h2>Git Quote</h2>
+      <div class="link-sec"> <a href="#">Home</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">Git Quote</a> </div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -56,9 +56,9 @@
 
 <!--Form-->
 <div class="container padd-80 contact-page">
-  <div class="col-md-7 contact-body">
-    <h2 class="sec-heading">How can we help you?</h2>
-    <p>Please give as much detail as possible so we can route your question properly.</p>
+  <div class="col-md-8 contact-body">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cum, delectus dolorem doloremque doloribus ea eaque eligendi enim fuga, illum itaque iusto labore nam nisi non quas similique velit veniam?</p>
+      <h2 class="sec-heading">Git your Quote</h2>
     <div class="contact-form">
       <div class="row">
         <form action='#' method='post'>
@@ -90,29 +90,41 @@
     </div>
   </div>
   <div class="col-md-1"></div>
-  <div class="col-md-4 contact-detail">
-    <h2 class="sec-heading">Contact Information</h2>
-    <span></span>
-    <div class="footer-contact-list"> <i class="flaticon-placeholder"></i>
-      <p><strong>Address</strong></p>
-      <h6>1205 Mission St, San Francisco,<br>
-        CA 94110, USA</h6>
+    <div class="col-md-offset-0 col-md-3 padd-btn-none"><!--left-sec-->
+        <div class="row categories">
+            <ul>
+                <li class="sub-menu"><a class="main-a" href="javascript:void(0)">CATEGORIES <i
+                                class='fa fa-angle-down'></i></a>
+                    <ul>
+                        <li><a href="#">About Us</a>
+                            <ul class="sub">
+                                <li><a href="#">dklfjd</a>
+                                    <ul class="sub">
+                                        <li><a href="#">dklfjd</a></li>
+                                        <li><a href="#">dklfjd</a></li>
+                                        <li><a href="#">dklfjd</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">dklfjd</a></li>
+                                <li><a href="#">dklfjd</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Join Our Mailing List</a>
+                        </li>
+                        <li><a href="#">Product Categories</a>
+                        </li>
+                        <li><a href="#">Promotion</a>
+                        </li>
+                        <li><a href="#">News</a>
+                        </li>
+                        <li><a href="#">Clearance Outlet</a></li>
+                        <li><a href="#">Where to Buy</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
     </div>
-    <div class="footer-contact-list"> <i class="flaticon-phone-call"></i>
-      <p><strong>phone</strong></p>
-      <h6><strong>+01 987654321</strong></h6>
-    </div>
-    <div class="footer-contact-list"> <i class="flaticon-envelope"></i>
-      <p><strong>email</strong></p>
-      <h6>info@company.com</h6>
-    </div>
-    <div class="footer-contact-list"> <i class="flaticon-clock"></i>
-      <p><strong>Opening hours</strong>
-      
-      <h6>Mon-Sat <font class="pull-right">8AM - 2PM</font><br>
-        Sunday <font class="pull-right" color="#bd2754">Closed</font></h6>
-    </div>
-  </div>
   <div class="clearfix"></div>
 </div>
 
@@ -126,7 +138,7 @@
           center: {lat: 40.710855, lng: -73.986243}
         });
 
-        var image = '../../../../s3.ap-south-1.amazonaws.com/inno.web/location.png'; //add url for marker(img)
+        var image = '../../../s3.ap-south-1.amazonaws.com/inno.web/location.png'; //add url for marker(img)
         var beachMarker = new google.maps.Marker({
           position: {lat: 40.710855, lng: -73.986243},
           map: map,

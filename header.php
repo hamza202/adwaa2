@@ -111,7 +111,7 @@
             <ul>
                 <li><a href="">Home</a>
                 </li>
-                <li><a href="">Products</a>
+                <li><a href="products.php">Products</a>
                     <ul>
                         <li><a href="#">How deep?</a>
                             <ul>
@@ -129,7 +129,7 @@
                 </li>
                 <li><a href="">Manufacturing</a></li>
                 <li><a href="">Industries</a></li>
-                <li><a href="">Contact us</a></li>
+                <li><a href="contact.php">Contact us</a></li>
                 <li><a href="">Catalog</a></li>
 
             </ul>

@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Sitemap.php" afterPath="$PROJECT_DIR$/Sitemap.php" />
+      <change beforePath="$PROJECT_DIR$/adwaa2.rar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/assests/css/castome.css" afterPath="$PROJECT_DIR$/assests/css/castome.css" />
+      <change beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
       <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/news-details.php" afterPath="$PROJECT_DIR$/news-details.php" />
+      <change beforePath="$PROJECT_DIR$/page.php" afterPath="$PROJECT_DIR$/page.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,68 +23,54 @@
       <file leaf-file-name="castome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="477" column="17" lean-forward="false" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
+            <state relative-caret-position="500">
+              <caret line="482" column="12" lean-forward="false" selection-start-line="482" selection-start-column="12" selection-end-line="482" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product-detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/kkkk/adwa-template/innovatoryinfotech.com/theme/Horseway_shop/shop/product-detail.html">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20790">
-              <caret line="1284" column="0" lean-forward="false" selection-start-line="1284" selection-start-column="0" selection-end-line="1347" selection-end-column="9" />
-              <folding>
-                <element signature="n#div#3;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#3;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products-details.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products-details.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3402">
-              <caret line="189" column="4" lean-forward="false" selection-start-line="189" selection-start-column="4" selection-end-line="189" selection-end-column="52" />
+            <state relative-caret-position="308">
+              <caret line="146" column="48" lean-forward="false" selection-start-line="146" selection-start-column="48" selection-end-line="146" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products.php">
+      <file leaf-file-name="quote.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quote.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="139" column="58" lean-forward="false" selection-start-line="139" selection-start-column="58" selection-end-line="139" selection-end-column="58" />
+            <state relative-caret-position="334">
+              <caret line="140" column="21" lean-forward="false" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-pass.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new-pass.php">
+      <file leaf-file-name="feedBack.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feedBack.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4588">
-              <caret line="258" column="38" lean-forward="true" selection-start-line="258" selection-start-column="38" selection-end-line="258" selection-end-column="38" />
-              <folding>
-                <element signature="e#2002#2008#0#HTML" expanded="true" />
-                <element signature="e#2062#2068#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forget-password.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forget-password.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="92" column="41" lean-forward="false" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whereBy.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/whereBy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,29 +78,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stellarnav.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assests/js/stellarnav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assests/js/theme.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="137">
+              <caret line="129" column="59" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,8 +90,41 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2376">
-              <caret line="132" column="32" lean-forward="false" selection-start-line="132" selection-start-column="32" selection-end-line="132" selection-end-column="32" />
+            <state relative-caret-position="397">
+              <caret line="131" column="40" lean-forward="false" selection-start-line="131" selection-start-column="40" selection-end-line="131" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news-details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sitemap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sitemap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="85" column="53" lean-forward="false" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="465" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="castome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>cart-item</find>
       <find>Ajax Shopping Cart Example</find>
       <find>shopping-cart-box</find>
       <find>.cart-box</find>
@@ -159,6 +163,7 @@
       <find>Sale</find>
       <find>sp</find>
       <find>Old Passwrod</find>
+      <find>blog-1.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>#ffa12c</replace>
@@ -191,13 +196,20 @@
         <option value="$PROJECT_DIR$/cart_process.php" />
         <option value="$PROJECT_DIR$/assests/js/theme.js" />
         <option value="$PROJECT_DIR$/assests/js/stellarnav.js" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$USER_HOME$/Desktop/kkkk/adwa-template/innovatoryinfotech.com/theme/Horseway_shop/shop/product-detail.html" />
         <option value="$PROJECT_DIR$/products-details.php" />
-        <option value="$PROJECT_DIR$/assests/css/castome.css" />
         <option value="$PROJECT_DIR$/products.php" />
         <option value="$PROJECT_DIR$/new-pass.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/page.php" />
+        <option value="$PROJECT_DIR$/assests/css/castome.css" />
+        <option value="$PROJECT_DIR$/news-details.php" />
+        <option value="$PROJECT_DIR$/Sitemap.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/feedBack.php" />
+        <option value="$PROJECT_DIR$/quote.php" />
+        <option value="$PROJECT_DIR$/whereBy.php" />
       </list>
     </option>
   </component>
@@ -290,12 +302,12 @@
       <workItem from="1518340640699" duration="8791000" />
       <workItem from="1518511400545" duration="5171000" />
       <workItem from="1518596614301" duration="12365000" />
-      <workItem from="1518613366155" duration="2004000" />
+      <workItem from="1518613366155" duration="5955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86018000" />
+    <option name="totallyTimeSpent" value="89969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -341,40 +353,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/kkkk/adwa/innovatoryinfotech.com/theme/Horseway_shop/shop/index-2.html" />
-    <entry file="file://$PROJECT_DIR$/shop/index.html" />
-    <entry file="file://$PROJECT_DIR$/assests/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9648">
-          <caret line="536" column="19" lean-forward="false" selection-start-line="536" selection-start-column="19" selection-end-line="536" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/kkkk/adwa/innovatoryinfotech.com/theme/Horseway_shop/shop/index-2.html" />
-    <entry file="file://$PROJECT_DIR$/shop/index.html" />
-    <entry file="file://$PROJECT_DIR$/assests/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46170">
-          <caret line="2565" column="28" lean-forward="false" selection-start-line="2565" selection-start-column="7" selection-end-line="2565" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
@@ -386,6 +364,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9648">
           <caret line="536" column="19" lean-forward="false" selection-start-line="536" selection-start-column="19" selection-end-line="536" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -407,6 +386,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="5475" column="31" lean-forward="false" selection-start-line="5475" selection-start-column="0" selection-end-line="5475" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -491,14 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2376">
-          <caret line="132" column="32" lean-forward="false" selection-start-line="132" selection-start-column="32" selection-end-line="132" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/kkkk/adwa-template/innovatoryinfotech.com/theme/Horseway_shop/shop/product-detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20790">
@@ -515,38 +487,13 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products-details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3402">
-          <caret line="189" column="4" lean-forward="false" selection-start-line="189" selection-start-column="4" selection-end-line="189" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="477" column="17" lean-forward="false" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="139" column="58" lean-forward="false" selection-start-line="139" selection-start-column="58" selection-end-line="139" selection-end-column="58" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,8 +510,114 @@
         <state relative-caret-position="4588">
           <caret line="258" column="38" lean-forward="true" selection-start-line="258" selection-start-column="38" selection-end-line="258" selection-end-column="38" />
           <folding>
-            <element signature="e#2002#2008#0#HTML" expanded="true" />
-            <element signature="e#2062#2068#0#HTML" expanded="true" />
+            <element signature="e#2002#2008#0#HTML" expanded="false" />
+            <element signature="e#2062#2068#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="72" column="77" lean-forward="false" selection-start-line="72" selection-start-column="77" selection-end-line="72" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="189" column="4" lean-forward="false" selection-start-line="189" selection-start-column="4" selection-end-line="189" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="131" column="40" lean-forward="false" selection-start-line="131" selection-start-column="40" selection-end-line="131" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="482" column="12" lean-forward="false" selection-start-line="482" selection-start-column="12" selection-end-line="482" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sitemap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="85" column="53" lean-forward="false" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="465" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="146" column="48" lean-forward="false" selection-start-line="146" selection-start-column="48" selection-end-line="146" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="129" column="59" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedBack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="92" column="41" lean-forward="false" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="140" column="21" lean-forward="false" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whereBy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

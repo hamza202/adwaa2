@@ -46,8 +46,8 @@
 <div class="container-fluid link-row">
   <div class="container">
     <div class="col-md-12">
-      <h2>Contact Us</h2>
-      <div class="link-sec"> <a href="#">Home</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">Contact</a> </div>
+      <h2>Where To Buy</h2>
+      <div class="link-sec"> <a href="#">Home</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">Where To Buy</a> </div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -56,87 +56,25 @@
 
 <!--Form-->
 <div class="container padd-80 contact-page">
-  <div class="col-md-7 contact-body">
-    <h2 class="sec-heading">How can we help you?</h2>
-    <p>Please give as much detail as possible so we can route your question properly.</p>
-    <div class="contact-form">
-      <div class="row">
-        <form action='#' method='post'>
-          <div class="col-sm-6"> <span class="input input--yoshiko">
-            <input class="input__field input__field--yoshiko" required type="fname" id="input-10" name="fname"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="First Name">First Name</span> </label>
-            </span> </div>
-          <div class=" col-sm-6"> <span class="input input--yoshiko">
-            <input class="input__field input__field--yoshiko" required type="text" name="lname" id="input-10"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Last Name">Last Name</span> </label>
-            </span> </div>
-          <div class=" col-sm-6"> <span class="input input--yoshiko">
-            <input class="input__field input__field--yoshiko" required name="pnumber" type="text" id="input-10"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Phone Number">Phone Number</span> </label>
-            </span> </div>
-          <div class=" col-sm-6"> <span class="input input--yoshiko">
-            <input class="input__field input__field--yoshiko" required name="email" type="email" id="input-10" />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Email Address">Email Address</span> </label>
-            </span> </div>
-          <div class=" col-sm-12"> <span class="input input--yoshiko">
-            <textarea class="input__field input__field--yoshiko" name="message" type="text" id="input-10" ></textarea>
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Message">Message</span> </label>
-            </span> </div>
-          <div class=" col-sm-12 submit-button">
-                        <input type='submit' name='btn' value='Submit' class="def-btn lg-btn" />
-          </div>
-        </form>
-      </div>
+ <div class="row">
+     <div class="col-sm-7">
+         <h2>Address: </h2>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut autem deserunt, dolore doloremque dolorum eius ipsum, maiores maxime neque nobis optio provident quae, qui quos sapiente sunt. Cumque, nisi.</p>
+     </div>
+     <div class="col-sm-5">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14950901.39223152!2d54.122240295529295!3d23.814245798802553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15e7b33fe7952a41%3A0x5960504bc21ab69b!2z2KfZhNiz2LnZiNiv2YrYqQ!5e0!3m2!1sar!2s!4v1518619071818" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+     </div>
+ </div>
+    <div class="row padd-50">
+        <div class="col-sm-7">
+            <h2>Address: </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut autem deserunt, dolore doloremque dolorum eius ipsum, maiores maxime neque nobis optio provident quae, qui quos sapiente sunt. Cumque, nisi.</p>
+        </div>
+        <div class="col-sm-5">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3623.9470659594763!2d46.69322915732129!3d24.728697494996954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f02eb0f7ec2a3%3A0x2a9fd24465c3cff1!2sHome+Sweet+Home!5e0!3m2!1sar!2s!4v1518619228172" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>        </div>
     </div>
-  </div>
-  <div class="col-md-1"></div>
-  <div class="col-md-4 contact-detail">
-    <h2 class="sec-heading">Contact Information</h2>
-    <span></span>
-    <div class="footer-contact-list"> <i class="flaticon-placeholder"></i>
-      <p><strong>Address</strong></p>
-      <h6>1205 Mission St, San Francisco,<br>
-        CA 94110, USA</h6>
-    </div>
-    <div class="footer-contact-list"> <i class="flaticon-phone-call"></i>
-      <p><strong>phone</strong></p>
-      <h6><strong>+01 987654321</strong></h6>
-    </div>
-    <div class="footer-contact-list"> <i class="flaticon-envelope"></i>
-      <p><strong>email</strong></p>
-      <h6>info@company.com</h6>
-    </div>
-    <div class="footer-contact-list"> <i class="flaticon-clock"></i>
-      <p><strong>Opening hours</strong>
-      
-      <h6>Mon-Sat <font class="pull-right">8AM - 2PM</font><br>
-        Sunday <font class="pull-right" color="#bd2754">Closed</font></h6>
-    </div>
-  </div>
-  <div class="clearfix"></div>
 </div>
 
-<!--Map-->
-<div id="map"></div>
-    
-<script>
-        function initMap() {
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 12,
-          center: {lat: 40.710855, lng: -73.986243}
-        });
-
-        var image = '../../../../s3.ap-south-1.amazonaws.com/inno.web/location.png'; //add url for marker(img)
-        var beachMarker = new google.maps.Marker({
-          position: {lat: 40.710855, lng: -73.986243},
-          map: map,
-          icon: image
-        });
-      }
-    </script> 
-<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA76nDt05UgFvhNUJMcVOVxIvog0bnHZew%20&amp;callback=initMap">
-    </script> 
 
 <!--footer-->
 <?php include ('footer.php')?>

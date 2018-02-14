@@ -12,6 +12,7 @@
     <!--favicon-->
     <!--<link rel="icon" href="assests/img/index/favicon.png" sizes="32x32">-->
     <!--style-->
+    <link href="assests/css/stellarnav.css" rel="stylesheet" type="text/css">
     <link href="assests/css/style-3.css" rel="stylesheet" type="text/css">
 
     <link href="assests/css/style.css" rel="stylesheet" type="text/css">
@@ -59,7 +60,7 @@
         <div class="row">
             <!--row-->
 
-            <div class="col-md-9 padd-50">
+            <div class="col-md-12 padd-50">
                 <!--right-sec-->
 
                 <div class="article">
@@ -99,6 +100,7 @@
     <script src="assests/js/ajax.js"></script>
     <!--bootstrap.min-->
     <script src="assests/js/bootstrap.min.js"></script>
+    <script src="assests/js/stellarnav.js"></script>
     <script src="assests/js/bx-slider.js"></script>
     <script>
         $('.bxslider').bxSlider({

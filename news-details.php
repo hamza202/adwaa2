@@ -10,6 +10,7 @@
     <!--favicon-->
     <!--<link rel="icon" href="assests/img/index/favicon.png" sizes="32x32">-->
     <!--style-->
+    <link href="assests/css/stellarnav.css" rel="stylesheet" type="text/css">
     <link href="assests/css/style-3.css" rel="stylesheet" type="text/css">
 
     <link href="assests/css/style.css" rel="stylesheet" type="text/css">
@@ -53,42 +54,24 @@
   </div>
 </div>
     
-<div class="container top-sec"><!--main-container-->
+<div class="container top-sec n-d-section"><!--main-container-->
     <div class="row"><!--row-->
         
 
 
-        <div class="col-md-9 padd-60 slider"><!--right-sec-->
+        <div class="col-md-5  slider"><!--right-sec-->
             
             <div class="article">
-      <div class="article-img wow animated fadeInDown"><img src="assests/img/blog/blog-1.jpg" alt="" class="img-responsive" /></div>
+      <div class="article-img wow animated fadeInDown"><img src="assests/img/product/big.jpg" alt="" class="img-responsive" /></div>
       <!--blog post-1-->
-      <div class="article-body">
-        <h3>People who love to eat are always the best people.</h3>
-        <span class="article-body-span"><a href="#">12,March,2018 &nbsp;| &nbsp; By Admin </a></span>
-        <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
-        <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
-        <div class="blog-quote-share"> <span class="blog-quote-span">Share this Post</span>
-          <div class="blog-social">
-            <ul>
-              <li><a href="#"><i class="fa fa-share "></i></a>
-                <ul class="wow animated fadeInRight">
-                  <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                  <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
     </div>
     <div class="divider"></div>
     <div class="clearfix"></div>
             
         </div>
-        
-        <div class="col-md-offset-0 col-md-3 padd-60 padd-btn-none"><!--left-sec-->
+
+
+        <div class="col-md-offset-4 col-md-3 padd-btn-none"><!--left-sec-->
             <div class="row categories">
                 <ul>
                     <li class="sub-menu"><a class="main-a" href="javascript:void(0)">CATEGORIES <i class='fa fa-angle-down'></i></a>
@@ -115,6 +98,28 @@
             </div>
         </div>
         <div class="clearfix"></div>
+        <div class="col-xs-12">
+            <div class="article-body news-det">
+                <h3>People who love to eat are always the best people.</h3>
+                <span class="article-body-span"><a href="#">12,March,2018 &nbsp;| &nbsp; By Admin </a></span>
+                <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
+                <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
+                <div class="blog-quote-share"> <span class="blog-quote-span">Share this Post</span>
+                    <div class="blog-social">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-share "></i></a>
+                                <ul class="wow animated fadeInRight">
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
 </div>
 
@@ -125,6 +130,7 @@
 <script src="assests/js/ajax.js"></script>
 <!--bootstrap.min-->
 <script src="assests/js/bootstrap.min.js"></script>
+<script src="assests/js/stellarnav.js"></script>
 <script src="assests/js/bx-slider.js"></script>
 <script>
     $('.bxslider').bxSlider({

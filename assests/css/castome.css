@@ -477,6 +477,12 @@ overflow: hidden;
 .popover{
     width: 216px;
 }
+.news-det{
+    padding-bottom: 40px;
+}
+.n-d-section{
+    margin-top: 50px;
+}
 @media only screen and (min-width : 1025px) {
     .stellarnav > ul > li > a {
         padding: 15px 20px !important;
