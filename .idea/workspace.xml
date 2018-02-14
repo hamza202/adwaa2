@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Sitemap.php" afterPath="$PROJECT_DIR$/Sitemap.php" />
-      <change beforePath="$PROJECT_DIR$/adwaa2.rar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assests/css/castome.css" afterPath="$PROJECT_DIR$/assests/css/castome.css" />
-      <change beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change beforePath="$PROJECT_DIR$/news-details.php" afterPath="$PROJECT_DIR$/news-details.php" />
-      <change beforePath="$PROJECT_DIR$/page.php" afterPath="$PROJECT_DIR$/page.php" />
-    </list>
+    <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +211,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="148" />
     <option name="y" value="192" />
     <option name="width" value="832" />
@@ -302,15 +293,15 @@
       <workItem from="1518340640699" duration="8791000" />
       <workItem from="1518511400545" duration="5171000" />
       <workItem from="1518596614301" duration="12365000" />
-      <workItem from="1518613366155" duration="5955000" />
+      <workItem from="1518613366155" duration="6148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89969000" />
+    <option name="totallyTimeSpent" value="90162000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19692533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
