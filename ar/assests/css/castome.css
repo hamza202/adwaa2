@@ -699,3 +699,9 @@ i.fa-share{
     right: 0;
     left: auto;
 }
+a.lang{
+    float: left;
+    position: relative;
+    top: 27px;
+    color: #fff;
+}

@@ -70,6 +70,7 @@
                 </div>
                 <div class="col-lg-3 wishlist">
                     <div class="row">
+                    <a href="#" class="lang">EN</a>
                         <div class="sign-in">
                             <a href="#" data-toggle="modal" data-target="#myModal2">
                                 <p>تسجيل الدخول</p>

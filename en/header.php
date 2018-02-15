@@ -70,6 +70,10 @@
                 </div>
                 <div class="col-lg-3 wishlist">
                     <div class="row">
+                    <a href="#" class="lang" style=" float: left;
+    position: relative;
+    top: 27px;
+    color: #fff !important;">AR</a>
                         <div class="sign-in">
                             <a href="#" data-toggle="modal" data-target="#myModal2">
                                 <p>Sign in</p>

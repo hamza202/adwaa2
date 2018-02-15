@@ -441,7 +441,14 @@ a.cart-checkout:hover{
     }
 }
 @media (max-width: 1199px) and (min-width: 992px) {
-     .sign-in {
+     .sign-in{
         margin-top: 23px;
     }
+}
+
+a.lang{
+    float: left;
+    position: relative;
+    top: 27px;
+    color: #fff !important;
 }
