@@ -57,37 +57,41 @@
 <!--Form-->
 <div class="container padd-80 contact-page">
   <div class="col-md-8 contact-body">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cum, delectus dolorem doloremque doloribus ea eaque eligendi enim fuga, illum itaque iusto labore nam nisi non quas similique velit veniam?</p>
-      <h2 class="sec-heading">Your Feed Back</h2>
-    <div class="contact-form">
+      <p>
+      هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى النص العربى مفيد لمقية لتصميم الموقع.
+        </p>
+      <h2 class="sec-heading">ارسل لنا رأيك</h2>
+      <div class="contact-form">
       <div class="row">
         <form action='#' method='post'>
           <div class="col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required type="fname" id="input-10" name="fname"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="First Name">First Name</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="الأسم الأول">الأسم الأول</span> </label>
             </span> </div>
           <div class=" col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required type="text" name="lname" id="input-10"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Last Name">Last Name</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="الأسم الأخير">الأسم الأخير</span> </label>
             </span> </div>
           <div class=" col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required name="pnumber" type="text" id="input-10"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Phone Number">Phone Number</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="رقم الهاتف">رقم الهاتف</span> </label>
             </span> </div>
           <div class=" col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required name="email" type="email" id="input-10" />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Email Address">Email Address</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="البريد الالكتروني">البريد الالكتروني</span> </label>
             </span> </div>
           <div class=" col-sm-12"> <span class="input input--yoshiko">
             <textarea class="input__field input__field--yoshiko" name="message" type="text" id="input-10" ></textarea>
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Message">Message</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="الرسالة">الرسالة</span> </label>
             </span> </div>
           <div class=" col-sm-12 submit-button">
-                        <input type='submit' name='btn' value='Submit' class="def-btn lg-btn" />
+                        <input type='submit' name='btn' value='ارسال' class="def-btn lg-btn" />
           </div>
         </form>
       </div>
-    </div>
+      </div>
+
   </div>
   <div class="col-md-1"></div>
     <div class="col-md-offset-0 col-md-3  padd-btn-none"><!--left-sec-->

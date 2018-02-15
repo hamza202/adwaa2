@@ -145,7 +145,7 @@ if(isset($_SESSION["products_a"]) && count($_SESSION["products_a"])>0){
 	
 	echo $cart_box;
 }else{
-	echo "Your Cart is empty";
+	echo "سلة التسوق فارغة";
 }
 ?>
 </form>

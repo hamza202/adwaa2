@@ -50,8 +50,8 @@
     <div class="container-fluid link-row">
         <div class="container">
             <div class="col-md-12">
-                <h2>Forget password</h2>
-                <div class="link-sec"> <a href="#">Home</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">Forget password</a> </div>
+                <h2>كلمة مرور جديدة</h2>
+                <div class="link-sec"> <a href="#">الرئيسيه</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">كلمة مرور جديدة</a> </div>
             </div>
             <div class="clearfix"></div>
         </div>

@@ -61,7 +61,7 @@
                         <div class="drop-select">
                             <div class="search-bar">
                                 <div class="search-bar-item">
-                                    <input type="text" placeholder="What are you looking for...">
+                                    <input type="text" placeholder="بحث...">
                                     <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
                                 </div>
                             </div>
@@ -72,12 +72,12 @@
                     <div class="row">
                         <div class="sign-in">
                             <a href="#" data-toggle="modal" data-target="#myModal2">
-                                <p>Sign in</p>
+                                <p>تسجيل الدخول</p>
                                 <i class="fa fa-user-circle" aria-hidden="true"></i></a>
                             <div class="sign-in-hover">
-                                <a>Your Account</a>
-                                <a>Logout</a>
-                                <a href="#" data-toggle="modal" data-target="#myModal2" class="login">Login</a></div>
+                                <a>حسابي</a>
+                                <a>تسجيل الخروج</a>
+                                <a href="#" data-toggle="modal" data-target="#myModal2" class="login">تسجيل الدخول</a></div>
                         </div>
                         <div class="shop-cart">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -93,8 +93,8 @@
 
 
                             <div class="shopping-cart-box">
-                                <a href="#" class="close-shopping-cart-box" >Close</a>
-                                <h3>Your Shopping Cart</h3>
+                                <a href="#" class="close-shopping-cart-box" >X</a>
+                                <h3>سلة التسوق</h3>
                                 <div id="shopping-cart-results">
                                 </div>
                             </div>
@@ -109,9 +109,9 @@
     </div>
         <div id="main-nav" class="stellarnav">
             <ul>
-                <li><a href="">Home</a>
+                <li><a href="">الرئيسية</a>
                 </li>
-                <li><a href="products.php">Products</a>
+                <li><a href="products.php">المنتجات</a>
                     <ul>
                         <li><a href="#">How deep?</a>
                             <ul>
@@ -127,10 +127,10 @@
                         <li><a href="#">Item</a></li>
                     </ul>
                 </li>
-                <li><a href="">Manufacturing</a></li>
-                <li><a href="">Industries</a></li>
-                <li><a href="contact.php">Contact us</a></li>
-                <li><a href="">Catalog</a></li>
+                <li><a href="">تصنيع</a></li>
+                <li><a href="">الصناعات</a></li>
+                <li><a href="contact.php">تواصل معنا</a></li>
+                <li><a href="">فهرس</a></li>
 
             </ul>
         </div><!-- .stellar-nav -->

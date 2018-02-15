@@ -57,33 +57,33 @@
 <!--Form-->
 <div class="container padd-80 contact-page">
   <div class="col-md-7 contact-body">
-    <h2 class="sec-heading">How can we help you?</h2>
-    <p>Please give as much detail as possible so we can route your question properly.</p>
+    <h2 class="sec-heading">كيف نستطيع مساعدتك</h2>
+    <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </p>
     <div class="contact-form">
       <div class="row">
         <form action='#' method='post'>
           <div class="col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required type="fname" id="input-10" name="fname"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="First Name">First Name</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="الأسم الأول">الأسم الأول</span> </label>
             </span> </div>
           <div class=" col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required type="text" name="lname" id="input-10"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Last Name">Last Name</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="الأسم الأخير">الأسم الأخير</span> </label>
             </span> </div>
           <div class=" col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required name="pnumber" type="text" id="input-10"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Phone Number">Phone Number</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="رقم الهاتف">رقم الهاتف</span> </label>
             </span> </div>
           <div class=" col-sm-6"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko" required name="email" type="email" id="input-10" />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Email Address">Email Address</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="البريد الالكتروني">البريد الالكتروني</span> </label>
             </span> </div>
           <div class=" col-sm-12"> <span class="input input--yoshiko">
             <textarea class="input__field input__field--yoshiko" name="message" type="text" id="input-10" ></textarea>
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Message">Message</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="الرسالة">الرسالة</span> </label>
             </span> </div>
           <div class=" col-sm-12 submit-button">
-                        <input type='submit' name='btn' value='Submit' class="def-btn lg-btn" />
+                        <input type='submit' name='btn' value='ارسال' class="def-btn lg-btn" />
           </div>
         </form>
       </div>
@@ -91,26 +91,26 @@
   </div>
   <div class="col-md-1"></div>
   <div class="col-md-4 contact-detail">
-    <h2 class="sec-heading">Contact Information</h2>
+    <h2 class="sec-heading">معلومات التواصل</h2>
     <span></span>
     <div class="footer-contact-list"> <i class="flaticon-placeholder"></i>
-      <p><strong>Address</strong></p>
+      <p><strong>العنوان</strong></p>
       <h6>1205 Mission St, San Francisco,<br>
         CA 94110, USA</h6>
     </div>
     <div class="footer-contact-list"> <i class="flaticon-phone-call"></i>
-      <p><strong>phone</strong></p>
+      <p><strong>هاتف</strong></p>
       <h6><strong>+01 987654321</strong></h6>
     </div>
     <div class="footer-contact-list"> <i class="flaticon-envelope"></i>
-      <p><strong>email</strong></p>
+      <p><strong>بريد الكتروني</strong></p>
       <h6>info@company.com</h6>
     </div>
     <div class="footer-contact-list"> <i class="flaticon-clock"></i>
-      <p><strong>Opening hours</strong>
+      <p><strong>اوقات العمل</strong>
       
-      <h6>Mon-Sat <font class="pull-right">8AM - 2PM</font><br>
-        Sunday <font class="pull-right" color="#bd2754">Closed</font></h6>
+      <h6> اثنين-سبت <font class="">8AM - 2PM</font><br>
+        احد <font class="" color="#bd2754">مقفل</font></h6>
     </div>
   </div>
   <div class="clearfix"></div>

@@ -51,7 +51,7 @@
     <div class="container-fluid link-row">
         <div class="container">
             <div class="col-md-12">
-                <h2>Forget password</h2>
+                <h2>نسيت كلمة المرور</h2>
                 <div class="link-sec"> <a href="#">Home</a> &nbsp; <i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp; <a href="#">Forget password</a> </div>
             </div>
             <div class="clearfix"></div>
@@ -62,19 +62,19 @@
     <!--Form-->
     <div class="container padd-80 contact-page">
         <div class="col-md-12 contact-body">
-            <h2 class="sec-heading">Forget Password</h2>
-            <p>Enter your Email</p>
+            <h2 class="sec-heading">نسيت كلمة المرور</h2>
+            <p>ضع بريدك الألكتروني</p>
             <div class="contact-form">
                 <div class="row">
                     <form action='#' method='post' class="validatedForm">
                         <div class="col-sm-12"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko"  type="email" id="txtoldpass" name="txtoldpass"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Email">Email</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="بربد الكتروني">بربد الكتروني</span> </label>
                             </span>
                         </div>
 
                         <div class=" col-sm-12 submit-button">
-                            <input type='submit' name='btn' value='Submit' class="def-btn lg-btn" />
+                            <input type='submit' name='btn' value='ارسال' class="def-btn lg-btn" />
                         </div>
                     </form>
                 </div>

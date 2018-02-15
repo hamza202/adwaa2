@@ -84,7 +84,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xs-12 text-center">
-                            <h2 class="text-uppercase">manufacturers</h2>
+                            <h2 class="text-uppercase">المصنعين</h2>
                         </div>
 
                         <div class="col-md-3 col-sm-3 col-xs-2">
@@ -133,7 +133,7 @@
                     <li class="sub-menu"><a class="main-a" href="javascript:void(0)">CATEGORIES <i
                                     class='fa fa-angle-down'></i></a>
                         <ul>
-                            <li><a href="#">About Us</a>
+                            <li><a href="#">نبذة عنا</a>
                                 <ul class="sub">
                                     <li><a href="#">dklfjd</a>
                                         <ul class="sub">
@@ -146,17 +146,17 @@
                                     <li><a href="#">dklfjd</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Join Our Mailing List</a>
+                            <li><a href="#">انضم لقائمتنا البريدية</a>
                             </li>
-                            <li><a href="#">Product Categories</a>
+                            <li><a href="#">فئات المنتجات</a>
                             </li>
-                            <li><a href="#">Promotion</a>
+                            <li><a href="#">انشاء</a>
                             </li>
-                            <li><a href="#">News</a>
+                            <li><a href="#">اخبار</a>
                             </li>
-                            <li><a href="#">Clearance Outlet</a></li>
-                            <li><a href="#">Where to Buy</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">منفذ التخليص</a></li>
+                            <li><a href="#">اماكن البيع</a></li>
+                            <li><a href="#">تواصل معنا</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -170,7 +170,7 @@
 <!--slider-->
 <div class="container padd-80">
     <div class="text-center">
-        <h2 class="sec-heading text-uppercase">new PRODUCTS</h2>
+        <h2 class="sec-heading text-uppercase">المنتجات الجديدة</h2>
         <div class="clearfix"></div>
         <fo class="tranding">
             <div class="owl-carousel" id="tranding">
@@ -180,11 +180,11 @@
                                 <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
                         </div>
                         <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
+                            <h4 class="caption-title"><a href="#">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</a></h4>
 
                             <div class="item-input">
                                 <input type="number" value="1" name="product_qty" min="1" max="100000">
-                                <button type="submit">Add to Cart</button>
+                                <button type="submit">أضف الى السلة</button>
                                 <input name="product_model" type="hidden" value="BST-DL115">
                             </div>
                         </div>
@@ -196,11 +196,11 @@
                                 <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
                         </div>
                         <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
+                            <h4 class="caption-title"><a href="#">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</a></h4>
 
                             <div class="item-input">
                                 <input type="number" value="1" name="product_qty" min="1" max="1000000">
-                                <button type="submit">Add to Cart</button>
+                                <button type="submit">أضف الى السلة</button>
                                 <input name="product_model" type="hidden" value="BST-DL115">
                             </div>
                         </div>
@@ -213,10 +213,10 @@
                                 <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
                         </div>
                         <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
+                            <h4 class="caption-title"><a href="#">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</a></h4>
                             <div class="item-input">
                                 <input type="number" value="1" name="product_qty" min="1" max="1000000">
-                                <button type="submit">Add to Cart</button>
+                                <button type="submit">أضف الى السلة</button>
                                 <input name="product_model" type="hidden" value="BST-DL115">
                             </div>
                         </div>
@@ -228,11 +228,11 @@
                                 <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
                         </div>
                         <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
+                            <h4 class="caption-title"><a href="#">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</a></h4>
 
                             <div class="item-input">
                                 <input type="number" value="1" name="product_qty" min="1" max="1000000">
-                                <button type="submit">Add to Cart</button>
+                                <button type="submit">أضف الى السلة</button>
                                 <input name="product_model" type="hidden" value="BST-DL115">
                             </div>
                         </div>
@@ -246,145 +246,59 @@
 </div>
 
 
-<!--Online-sale-banner-->
-<div class="container-fluid sale-banner-bg">
-    <div class="sale-banner-bg-black">
-        <div class="container">
-            <h2 class="text-capitalize">our special products</h2>
-            <p>We offer for you the best price <span>&nbsp;80% off&nbsp;</span> On these products</p>
-            <a href="#" class="def-btn lg-btn">Show Now!</a></div>
-    </div>
-</div>
 
-
-<div class="container padd-80">
-    <div class="text-center">
-        <h2 class="sec-heading text-uppercase">BESANTEK PRODUCTS</h2>
-        <div class="clearfix"></div>
-        <fo class="tranding">
-            <div class="owl-carousel" id="Todays-Deals">
-                <div class="thumbnail no-border no-padding">
-                    <form class="form-item">
-                        <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                                <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
-                        </div>
-                        <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-
-                            <div class="item-input">
-                                <input type="number" value="1" name="product_qty" min="1" max="100000">
-                                <button type="submit">Add to Cart</button>
-                                <input name="product_model" type="hidden" value="BST-DL115">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <form class="form-item">
-                        <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                                <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
-                        </div>
-                        <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-
-                            <div class="item-input">
-                                <input type="number" value="1" name="product_qty" min="1" max="1000000">
-                                <button type="submit">Add to Cart</button>
-                                <input name="product_model" type="hidden" value="BST-DL115">
-                            </div>
-                        </div>
-
-                    </form>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <form class="form-item">
-                        <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                                <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
-                        </div>
-                        <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                            <div class="item-input">
-                                <input type="number" value="1" name="product_qty" min="1" max="1000000">
-                                <button type="submit">Add to Cart</button>
-                                <input name="product_model" type="hidden" value="BST-DL115">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <form class="form-item">
-                        <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                                <img src="assests/img/product/Product-1.jpg" alt=""/> </a>
-                        </div>
-                        <div class="caption item-body">
-                            <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-
-                            <div class="item-input">
-                                <input type="number" value="1" name="product_qty" min="1" max="1000000">
-                                <button type="submit">Add to Cart</button>
-                                <input name="product_model" type="hidden" value="BST-DL115">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-
-    </div>
-
-</div>
 
 <section class="clint-sec ">
     <div class="container">
         <div class="col-md-6 blog-slider">
             <div class="col-md-12">
-                <h3>Latest News</h3>
-                <section role="complementary" class="simple quotes no-fouc">
+                <h3>اخر الأخبار</h3>
+                <section role="complementary" class="simple quotes no-fouc" dir="ltr">
                     <blockquote><img src="assests/img/product/Product-4.jpg" alt=""/>
-                        <h5>Lorem ipsum dolor</h5>
-                        <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
-                            ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
-                        <a href="#" class="def-btn">Read More</a></blockquote>
+                        <h5>هذا النص هو مثال </h5>
+                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع. </p>
+                        <a href="#" class="def-btn">اقرأ المزيد</a></blockquote>
                     <blockquote><img src="assests/img/product/Product-5.jpg" alt=""/>
                         <h5>Lorem ipsum dolor</h5>
-                        <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
-                            ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
-                        <a href="#" class="def-btn">Read More</a></blockquote>
+                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع. </p>
+                        <a href="#" class="def-btn">اقرأ المزيد</a></blockquote>
                 </section>
             </div>
         </div>
         <div class="col-md-6 blog-slider testimonial-slider">
             <div class="col-md-12">
                 <h3>Testimonials</h3>
-                <section role="complementary" class="simple quotes no-fouc">
+                <section role="complementary" class="simple quotes no-fouc" dir="ltr">
                     <blockquote><i class="fa fa-quote-left" aria-hidden="true"></i>
-                        <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
-                            ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
+                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية،  </p>
                         <div class="testimonial-body"><img src="assests/img/testimonial/testi-1.jpg"
                                                            class="img-circle"
                                                            alt=""/>
-                            <h3>Victor Hickory</h3>
-                            <h6>Position</h6>
+                            <h3>أحمد احمد</h3>
+                            <h6>السعودية</h6>
                         </div>
                     </blockquote>
                     <blockquote><i class="fa fa-quote-left" aria-hidden="true"></i>
-                        <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
-                            ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
+                    <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية،  </p>
                         <div class="testimonial-body"><img src="assests/img/testimonial/testi-2.jpg"
                                                            class="img-circle"
                                                            alt=""/>
-                            <h3>Victor Hickory</h3>
-                            <h6>Position</h6>
+                                                           <h3>حمزه </h3>
+                            <h6>السعودية</h6>
                         </div>
                     </blockquote>
                     <blockquote><i class="fa fa-quote-left" aria-hidden="true"></i>
-                        <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
-                            ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
+                    <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية،  </p>
                         <div class="testimonial-body"><img src="assests/img/testimonial/testi-3.jpg"
                                                            class="img-circle"
                                                            alt=""/>
-                            <h3>Victor Hickory</h3>
-                            <h6>Position</h6>
+                                                           <h3>محمد </h3>
+                            <h6>السعودية</h6>
                         </div>
                     </blockquote>
                 </section>
@@ -402,14 +316,14 @@
 <div class="container-fluid newslatter-bg">
     <div class="container">
         <div class="col-md-7">
-            <h2><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Sign up for newsletter</h2>
-            <p>Wants to get latest updates! sign up for free.</p>
+            <h2><i class="fa fa-paper-plane-o" aria-hidden="true"></i> اشترك لتصلك اخر الأخبار</h2>
+            <p>احصل على آخر التحديثات</p>
         </div>
         <div class="col-md-5">
             <div class="newslatter-input">
                 <form method="post">
-                    <input type="email" name="email" placeholder="Your Email Address" required/>
-                    <input type="submit" name="btn" value="Subscribe" class="sm-hide sub-btn ok-btn">
+                    <input type="email" name="email" placeholder="البريد الالكتروني" required/>
+                    <input type="submit" name="btn" value="الأشتراك" class="sm-hide sub-btn ok-btn">
                     <input type="submit" name="btn" value="Ok" class="sm-show sub-btn"/>
                 </form>
             </div>
