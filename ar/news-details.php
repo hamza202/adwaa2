@@ -100,11 +100,13 @@
         <div class="clearfix"></div>
         <div class="col-xs-12">
             <div class="article-body news-det">
-                <h3>People who love to eat are always the best people.</h3>
+                <h3>هذا النص نص تجريبي</h3>
                 <span class="article-body-span"><a href="#">12,March,2018 &nbsp;| &nbsp; By Admin </a></span>
-                <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
-                <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
-                <div class="blog-quote-share"> <span class="blog-quote-span">Share this Post</span>
+                <p class="article-body-span">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع. </p>
+                <p class="article-body-span">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p>
+                <div class="blog-quote-share"> <span class="blog-quote-span">شارك هذا المنتج</span>
                     <div class="blog-social">
                         <ul>
                             <li><a href="#"><i class="fa fa-share "></i></a>

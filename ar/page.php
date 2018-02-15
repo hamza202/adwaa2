@@ -65,22 +65,8 @@
 
                 <div class="article">
                     <div class="article-body">
-                        <h3 class="text-center">About BESANTEK Corporation</h3>
-                        <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
-                        <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
-                        
-                        
-      <div class="article-img wow animated fadeInDown"><img src="assests/img/blog/blog-1.jpg" alt="" class="img-responsive" /></div>
-                        
-                        <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
-                        <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
-                        
-                        
-                        <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
-                        <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
-                        
-                        <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
-                        <p class="article-body-span">Nullam faucibus nunc quis ex tristique accumsan. Sed non semper mi. Sed vitae mauris rhoncus, ultricies lorem ac, tincidunt tellus. Vestibulum auctor libero vel ex volutpat porta. In tempor vel nulla ut consequat. Pellentes porttitor massa id eros fermentum venenatis. Nam fermentum euismod neque, et mollis diam mattis non.</p>
+                        <h3 class="text-center">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </h3>
+                        <p class="article-body-span">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </p>
                         
                     </div>
                 </div>

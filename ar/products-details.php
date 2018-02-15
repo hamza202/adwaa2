@@ -59,16 +59,16 @@
                 </div>
                 <!--Product-info-->
                 <div class="col-md-7 product-info">
-                    <h2>Full shirt studio glamour looking</h2>
+                    <h2>هذا النص هو مثال لنص يمكن أن يستبدل   </h2>
                     <div class="clearfix"></div>
                     <div class="offer">
-                        <h3>Description</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing Vestibulum porttitor egestas orci, vitae llamcorper Risus consectetur id. Donec at veli vestibulum, Rutrum massa quis, porttitor lorem.Aliquam non est a ipsum facilisis scelerisque.</p>
+                        <h3>الوصف</h3>
+                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة،  هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة،  هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </p>
                         <div class="offer-list"> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing </p>
+                            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة،  </p>
                         </div>
                         <div class="offer-list"> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                            <p>Vestibulum porttitor egestas orci, vitae ullamcorper </p>
+                            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة،  </p>
                         </div>
                     </div>
 

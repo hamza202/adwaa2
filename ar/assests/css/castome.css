@@ -13,7 +13,9 @@ body{
     font-family: 'JF Flat Regular' !important;
 }
 .stellarnav.light li a,
-.sec-heading{
+.sec-heading,
+.input__label--yoshiko,
+.sign-in .sign-in-hover a{
     font-family: 'JF Flat Regular' !important;
 }
 .carousel-inner{
@@ -674,4 +676,26 @@ padding-right: 23px;
 }
 .modal{
     z-index: 2000
+}
+.fa-angle-right:before{
+        content: "\f104";
+}
+i.fa-share{
+    transform: rotate(180deg)
+}
+.sign-in .sign-in-hover{
+    text-align: right;
+}
+.offer h3{
+    text-align: right
+}
+.offer-list p {
+    text-align: right;
+    font-size: 14px;
+    padding-right: 11px;
+    margin-bottom: 5px;
+}
+.offer-list i{
+    right: 0;
+    left: auto;
 }

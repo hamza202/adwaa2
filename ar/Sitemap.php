@@ -1,9 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
 
 <head>
     <meta charset="utf-8">
@@ -81,7 +79,7 @@
 
                 <div class="article sitemap">
                     <div class="article-body">
-                        <h3 class="text-center">Site map</h3>
+                        <h3 class="text-center">خريطة الموقع</h3>
 
                         <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vit ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultricies arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urna dignissim, nec mollis ipsum aliquam. Aliquam non est a ipsum facilisis scelerisque eu sed lectus. </p>
 

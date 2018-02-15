@@ -61,32 +61,32 @@
     <!--Form-->
     <div class="container padd-80 contact-page">
         <div class="col-md-12 contact-body">
-            <h2 class="sec-heading">Forget Password</h2>
-            <p>Please fill the input</p>
+            <h2 class="sec-heading">كلمة مرور جديدة</h2>
+            <p>الرجاء ملئ كافة الحقول</p>
             <div class="contact-form">
                 <div class="row">
                     <form action='#' method='post' class="validatedForm">
                         <div class="col-sm-12"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko"  type="password" id="txtoldpass" name="txtoldpass"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Old Passwrod">Old Passwrod</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="كلمة المرور الحالية">كلمة المرور الحالية</span> </label>
                             </span>
                         </div>
                         
                         
                         <div class="col-sm-12"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko"  type="password" id="txtnewpass" name="txtnewpass"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="New Passwrod">New Passwrod</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="كلمة المرور الجديدة">كلمة المرور الجديدة</span> </label>
                             </span>
                         </div>
                         
                         
                         <div class="col-sm-12"> <span class="input input--yoshiko">
             <input class="input__field input__field--yoshiko"  type="password" id="txtnewpass2" name="txtnewpass2"  />
-            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="Confirm New Passwrod">Confirm New Passwrod</span> </label>
+            <label class="input__label input__label--yoshiko" for="input-10"> <span class="input__label-content input__label-content--yoshiko" data-content="تأكيد كلمة المرور">تأكيد كلمة المرور</span> </label>
                             </span>
                         </div>
                         <div class=" col-sm-12 submit-button">
-                            <input type='submit' name='btn' value='Submit' class="def-btn lg-btn" />
+                            <input type='submit' name='btn' value='ارسال' class="def-btn lg-btn" />
                         </div>
                     </form>
                 </div>

@@ -58,8 +58,9 @@
 <div class="container padd-80 contact-page">
  <div class="row">
      <div class="col-sm-7">
-         <h2>Address: </h2>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut autem deserunt, dolore doloremque dolorum eius ipsum, maiores maxime neque nobis optio provident quae, qui quos sapiente sunt. Cumque, nisi.</p>
+         <h2>العنوان: </h2>
+         <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p>
      </div>
      <div class="col-sm-5">
          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14950901.39223152!2d54.122240295529295!3d23.814245798802553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15e7b33fe7952a41%3A0x5960504bc21ab69b!2z2KfZhNiz2LnZiNiv2YrYqQ!5e0!3m2!1sar!2s!4v1518619071818" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -67,8 +68,9 @@
  </div>
     <div class="row padd-50">
         <div class="col-sm-7">
-            <h2>Address: </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut autem deserunt, dolore doloremque dolorum eius ipsum, maiores maxime neque nobis optio provident quae, qui quos sapiente sunt. Cumque, nisi.</p>
+            <h2>العنوان: </h2>
+            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p>
         </div>
         <div class="col-sm-5">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3623.9470659594763!2d46.69322915732129!3d24.728697494996954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f02eb0f7ec2a3%3A0x2a9fd24465c3cff1!2sHome+Sweet+Home!5e0!3m2!1sar!2s!4v1518619228172" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>        </div>

@@ -152,10 +152,10 @@
 
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs" role="tablist">
-                            <li role="presentation"><a href="#home2" aria-controls="home2" role="tab" data-toggle="tab">Login</a>
+                            <li role="presentation"><a href="#home2" aria-controls="home2" role="tab" data-toggle="tab">تسجيل الدخول</a>
                             </li>
                             <li role="presentation" class="active"><a href="#profile2" aria-controls="profile2"
-                                                                      role="tab" data-toggle="tab">Sign up</a></li>
+                                                                      role="tab" data-toggle="tab">تسجيل</a></li>
                         </ul>
 
                         <!-- Tab panes -->
@@ -166,38 +166,38 @@
                                         <div class="col-md-6">
                                             <div class="input-row">
                                                 <i class="fa fa-user"></i>
-                                             <input type="text" placeholder="Name" required/>
+                                             <input type="text" placeholder="الأيمل" required/>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="input-row">
                                                 <i class="fa fa-building"></i>
-                                                <input type="text" placeholder="Company Name" required/>
+                                                <input type="text" placeholder="اسم الشركة" required/>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="input-row"><img src="assests/img/icon/phone.png" alt=""/>
-                                                <input type="text" placeholder="Mobile Number" required/>
+                                                <input type="text" placeholder="رقم الهاتف" required/>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
-                                                <input type="email" placeholder="Email ID" required/>
+                                                <input type="email" placeholder="البريد الالكتروني" required/>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
-                                                <input id="password"  type="password" placeholder="Enter your password" required/>
+                                                <input id="password"  type="password" placeholder="كلمة المرور" required/>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
-                                                <input id="confirm_password" type="password" placeholder="Confirm Password" required/>
+                                                <input id="confirm_password" type="password" placeholder="تأكيد كلمة المرور" required/>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <select class="form-control sin-select">
-                                                    <option value="">Country...</option>
+                                                    <option value="">الدولة...</option>
                                                     <option value="Afganistan">Afghanistan</option>
                                                     <option value="Albania">Albania</option>
                                                     <option value="Algeria">Algeria</option>
@@ -450,24 +450,25 @@
                                     </div>
 
                                 <div class="clearfix"></div>
-                                <button type="submit" class="button sin-btn"><span><img src="assests/img/icon/lock.png" alt=""/> Create
-                                        your account</span></button>
+                                <button type="submit" class="button sin-btn"><span><img src="assests/img/icon/lock.png" alt=""/> 
+                            انشاء حساب جديد
+                            </span></button>
                                 </form>
                             </div>
                             <div role="tabpanel" class="tab-pane fade" id="home2">
                                 <form>
                                 <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
-                                    <input type="email" placeholder="Email ID "/>
+                                    <input type="email" placeholder="بريد الكتروني "/>
                                 </div>
                                 <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
-                                    <input type="password" placeholder="Enter your password"/>
+                                    <input type="password" placeholder="كلمة المرةر"/>
                                 </div>
                                 <div class="forgot-row"><a data-toggle="modal" data-target="#myModal3"
-                                                           class="pull-right for-1" href="#">Forgot password?</a></div>
+                                                           class="pull-right for-1" href="#">هل نسيت كلمة المرور</a></div>
                                 <div class="clearfix"></div>
                                 <div class="clearfix"></div>
-                                <button type="submit" class="button sin-btn"><span><img src="assests/img/icon/lock.png" alt=""/> Secure
-                                        Login</span></button>
+                                <button type="submit" class="button sin-btn"><span><img src="assests/img/icon/lock.png" alt=""/> 
+                                        دخول</span></button>
                                 </form>
                             </div>
                         </div>

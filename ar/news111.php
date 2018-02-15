@@ -10,6 +10,8 @@
     <!--favicon-->
     <!--<link rel="icon" href="assests/img/index/favicon.png" sizes="32x32">-->
     <!--style-->
+    <link href="assests/css/stellarnav.css" rel="stylesheet" type="text/css">
+
     <link href="assests/css/style-3.css" rel="stylesheet" type="text/css">
 
     <link href="assests/css/style.css" rel="stylesheet" type="text/css">
@@ -62,9 +64,10 @@
       <div class="article-img wow animated fadeInDown"><img src="assests/img/blog/blog-1.jpg" alt="" class="img-responsive" /></div>
       <!--blog post-1-->
       <div class="article-body">
-        <h3>People who love to eat are always the best people.</h3>
+        <h3>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</h3>
         <span class="article-body-span"><a href="#">12,March,2018 &nbsp;| &nbsp; By Admin </a></span>
-        <p class="article-body-span">Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum porttitor egestas orci vitae ullamcorper risus consectetur id. Donec at velit vestibulum rutrum massa quis non est a ipsum facilisis scelerisque eu sed lectus.</p>
+        <p class="article-body-span">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p>
         <a class="def-btn" href="news-details.php">READ MORE</a>
         <div class="blog-social">
           <ul>
@@ -84,9 +87,10 @@
       <div class="article-img wow animated fadeInDown"><img src="assests/img/blog/blog-2.jpg" alt="" class="img-responsive" /></div>
       <!--blog post-1-->
       <div class="article-body">
-        <h3>Opencart Development</h3>
+        <h3>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </h3>
         <span class="article-body-span"><a href="#">12,March,2018 &nbsp;| &nbsp; By Admin </a></span>
-        <p class="article-body-span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor egestas orci, vi ullamcorper risus consectetur id. Donec at velit vestibulum, rutrum massa quis, porttitor lorem. Donec et ultrici arcu. In odio augue, hendrerit nec nisl ac, rhoncus gravida mauris. Quisque consectetur ligula eu urn dignissim, nec mollis ipsum aliquam. </p>
+        <p class="article-body-span">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع. </p>
         <a class="def-btn" href="news-details.php">READ MORE</a>
         <div class="blog-social">
           <ul>
@@ -106,9 +110,9 @@
       <div class="article-img wow animated fadeInDown"><img src="assests/img/blog/blog-3.jpg" alt="" class="img-responsive" /></div>
       <!--blog post-1-->
       <div class="article-body">
-        <h3>Preastashop Development</h3>
+        <h3>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </h3>
         <span class="article-body-span"><a href="#">12,March,2018 &nbsp;| &nbsp; By Admin </a></span>
-        <p class="article-body-span">Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum porttitor egestas orci vitae ullamcorper risus consectetur id. Donec at velit vestibulum rutrum massa quis non est a ipsum facilisis scelerisque eu sed lectus.</p>
+        <p class="article-body-span">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة،  هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة،  هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، </p>
         <a class="def-btn" href="news-details.php">READ MORE</a>
         <div class="blog-social">
           <ul>
@@ -165,6 +169,7 @@
 <script src="assests/js/ajax.js"></script>
 <!--bootstrap.min-->
 <script src="assests/js/bootstrap.min.js"></script>
+<script src="assests/js/stellarnav.js"></script>
 <script src="assests/js/bx-slider.js"></script>
 <script>
     $('.bxslider').bxSlider({
